@@ -1,1 +1,1 @@
-Spring web service training
+Spring web service training.
